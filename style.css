@@ -1,4 +1,3 @@
-   
 div {  
     box-sizing: border-box; 
     width: 100%; 
@@ -15,8 +14,9 @@ form {
 
 form>p{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
 
 }
 input{
